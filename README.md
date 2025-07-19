@@ -36,6 +36,3 @@ facial-emotion-recognition-app/
 1. Install Python dependencies in `backend/` (see its README for details)
 2. Install Node.js dependencies in `frontend/`
 3. Run both backend and frontend as described above
-
-## License
-See individual `LICENSE` files in each folder for details. 
